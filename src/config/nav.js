@@ -26,7 +26,7 @@ const menus = {
     icon: 'icon-wodegongzuo'
   },
   deformat: {
-    name: '格式化',
+    name: '变形',
     icon: 'icon-wodegongzuo'
   },
   base: {
@@ -35,6 +35,10 @@ const menus = {
   },
   arc: {
     name: '圆弧',
+    icon: 'icon-wodegongzuo'
+  },
+  pixel: {
+    name: '像素',
     icon: 'icon-wodegongzuo'
   }
 }

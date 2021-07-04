@@ -40,6 +40,10 @@ const menus = {
   pixel: {
     name: '像素',
     icon: 'icon-wodegongzuo'
+  },
+  grad: {
+    name: '渐变',
+    icon: 'icon-wodegongzuo'
   }
 }
 const menuArr = Object.keys(menus).map((menu) => {

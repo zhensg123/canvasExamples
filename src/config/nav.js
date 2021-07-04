@@ -44,6 +44,18 @@ const menus = {
   grad: {
     name: '渐变',
     icon: 'icon-wodegongzuo'
+  },
+  path: {
+    name: '路径',
+    icon: 'icon-wodegongzuo'
+  },
+  status: {
+    name: '状态',
+    icon: 'icon-wodegongzuo'
+  },
+  event: {
+    name: '事件',
+    icon: 'icon-wodegongzuo'
   }
 }
 const menuArr = Object.keys(menus).map((menu) => {
